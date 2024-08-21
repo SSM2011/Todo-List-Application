@@ -1,0 +1,2 @@
+# Todo-List-Application
+ Todo List Application A simple and responsive Todo List application built with React, featuring the ability to add, edit, and delete tasks. This app is perfect for managing your daily tasks and keeping track of what needs to be done.  Features Add Todos: Easily add new tasks to your list. Edit Todos: Modify existing tasks with a single click. Delete Todos: Remove tasks that are no longer needed. Task Numbering: Automatically numbers each task for easy reference. Responsive Design: Works well on both desktop and mobile devices.
